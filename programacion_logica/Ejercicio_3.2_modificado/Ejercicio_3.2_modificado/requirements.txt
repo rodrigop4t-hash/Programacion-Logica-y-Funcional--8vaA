@@ -1,0 +1,19 @@
+# Sistema Experto - TecNM
+#
+# Software necesario:
+#  -Python 3.10 o superior
+#  -SWI-Prolog 9.0 o superior
+#  -Git (opcional, para clonar el repositorio)
+#
+# Dependencias:
+# Instalar la dependencia de python 
+#  - pip install pyswip
+#
+# No se requieren dependencias externas.
+# Solo se usa la biblioteca estándar de Python 3.8+:
+#   - DateTime
+#   - prolog
+#   - sys
+#
+# Requisito externo (no Python):
+#   SWI-Prolog 8.x+  https://www.swi-prolog.org/Download.html
